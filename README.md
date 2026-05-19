@@ -60,4 +60,4 @@ This project analyses employee attrition trends and workforce behaviour using My
 
 ## Dashboard Preview
 
-![Dashboard Preview]https://github.com/snehalgaikwad032000/HR-Analytics-Employee-Attrition/blob/main/Dashboard.png?raw=true
+![Dashboard Preview](https://github.com/snehalgaikwad032000/HR-Analytics-Employee-Attrition/blob/main/Dashboard.png?raw=true)
